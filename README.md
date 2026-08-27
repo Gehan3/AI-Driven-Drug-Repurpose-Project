@@ -1,5 +1,7 @@
 # AI-Driven-Drug-Repurpose-Project
 This project focuses on AI-driven drug repurposing using X-Gboost &amp; Graph Neural Networks (GNNs). The system is designed to model complex biological entities as graphs and predict new drug-disease associations by analyzing network-based relationships, can be used in app like precision medicine and identifying  new therapeutic indications for existing, approved drugs — cutting the cost, time, and clinical risk of conventional drug development. This project implements a dual-model AI framework that combines **DREAMwalk** (semantic random-walk graph embeddings + XGBoost) and **TxGNN** (a heterogeneous graph neural network), both trained independently on the **Hetionet** biomedical knowledge graph, and unified through a weighted ensemble. Every prediction is made explainable through SHAP-based feature attribution and graph-native explanation methods.
+## 🎬 Demo Video
+Watch the full demo on YouTube: [AI-Driven Drug Repurposing Demo](https://www.youtube.com/watch?v=HsqOtiYIFGs)
 ![Alt Text](https://github.com/Gehan3/AI-Driven-Drug-Repurpose-Project/blob/main/cover.png)
 
 Drug repurposing 
