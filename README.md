@@ -22,7 +22,6 @@ Drug repurposing
 - [Getting Started](#getting-started)
 - [Current Progress](#current-progress)
 - [Future Work](#future-work)
-- [Team](#team)
 - [References](#references)
 - [License](#license)
 
