@@ -3,9 +3,7 @@ This project focuses on AI-driven drug repurposing using X-Gboost &amp; Graph Ne
 ![Alt Text](https://github.com/Gehan3/AI-Driven-Drug-Repurpose-Project/blob/main/cover.png)
 
 Drug repurposing 
-
-> 📄 Full thesis: `AI_Driven_Drug_Repurpose.pdf` · 🖼️ Poster: `AI_Drug_Repurposing_Poster.pdf`
-
+> 📄 Full thesis: [AI_Driven_Drug_Repurpose.pdf](./AI_Driven_Drug_Repurpose.pdf) · 🖼️ Poster: [AI_Drug_Repurposing_Poster.pdf](./AI_Drug_Repurposing_Poster%20.pdf)
 ---
 
 ## Table of Contents
