@@ -6,7 +6,7 @@ This project focuses on AI-driven drug repurposing using X-Gboost &amp; Graph Ne
 - **Try the App:** [https://perfectteam.doctorgehan3.workers.dev/](https://perfectteam.doctorgehan3.workers.dev/)
 
 ## 🎬 Demo Video
-Watch the full demo on YouTube: [AI-Driven Drug Repurposing Demo](https://www.youtube.com/watch?v=HsqOtiYIFGs)
+Watch the full demo on YouTube: [AI-Driven Drug Repurposing Demo](https://youtu.be/fe8R_41FtNg)
 ![Alt Text](https://github.com/Gehan3/AI-Driven-Drug-Repurpose-Project/blob/main/cover.png)
 
 Drug repurposing 
